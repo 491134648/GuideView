@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<har.lanyan.guideview.GuideView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:guideview="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/guideView1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    guideview:orientation="Horientation" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/guide01" >
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/guide02" >
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/guide03" >
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/guide04" >
+    </RelativeLayout>
+
+</har.lanyan.guideview.GuideView>
